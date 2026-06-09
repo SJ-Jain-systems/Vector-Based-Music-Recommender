@@ -222,8 +222,3 @@ Planned and stretch improvements:
 
   * Deploy to a public cloud (e.g., Azure, Render, or Railway) with a stable URL.
 
----
-
-## 7) Links (Required)
-
-* **GitHub Repo:** `<https://github.com/SJ-Jain-systems/DS2022_FinalProject_PerformativeMusicReccomender>`
